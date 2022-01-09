@@ -1,0 +1,3 @@
+https://forum.hwkitchen.cz/viewtopic.php?t=1474
+https://github.com/tomaskovacik/arduino/tree/master/Tripling
+https://forum.arduino.cc/t/comfort-turn-signal-controller-for-cars-with-arduino-nano-v3-0/251859

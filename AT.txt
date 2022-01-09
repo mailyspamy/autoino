@@ -1,0 +1,4 @@
+AT+B400 ;vypne ble
+AT+CN00 ;vypne zvuk pripojeni
+AT+CP01 ;POCKA NA VOLBU
+AT+BDstandal-auto\r\n ;jmeno
